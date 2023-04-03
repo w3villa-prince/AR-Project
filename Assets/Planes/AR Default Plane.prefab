@@ -17,11 +17,11 @@ GameObject:
   - component: {fileID: 4210442537298073201}
   m_Layer: 0
   m_Name: AR Default Plane
-  m_TagString: Untagged
+  m_TagString: Plane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4210442537298073211
 Transform:
   m_ObjectHideFlags: 0

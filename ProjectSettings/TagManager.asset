@@ -9,6 +9,7 @@ TagManager:
   - Simple
   - monocle
   - mask
+  - Plane
   layers:
   - Default
   - TransparentFX
